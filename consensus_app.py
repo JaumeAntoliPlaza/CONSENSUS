@@ -6,7 +6,7 @@ import requests
 from fuzzywuzzy import fuzz
 import mstarpy
 import time
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 headers = {"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,\
            */*;q=0.8",
