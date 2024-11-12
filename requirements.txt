@@ -1,7 +1,7 @@
-streamlit==1.31.1
-pandas==2.2.0
-plotly==5.18.0
-requests==2.31.0
-fuzzywuzzy==0.18.0
-python-Levenshtein==0.23.0
-mstarpy==0.1.1
+streamlit
+pandas
+plotly
+requests
+fuzzywuzzy
+python-Levenshtein
+mstarpy
