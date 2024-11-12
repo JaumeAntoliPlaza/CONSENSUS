@@ -111,7 +111,7 @@ def get_funds(headers: Dict) -> pd.DataFrame:
 
 # Configuración de la página
 st.set_page_config(
-    page_title="Análisis de Fondos Morningstar",
+    page_title="CONSENSUS",
     page_icon="📈",
     layout="wide"
 )
