@@ -244,6 +244,9 @@ st.markdown("""
 - Los resultados son una foto fija del momento actual
 - La presencia en múltiples fondos puede indicar consenso pero no garantiza rendimiento futuro
 
+### 🔒 Privacidad
+Esta aplicación no utiliza cookies ni almacena datos personales. Todos los análisis se realizan en tiempo real.
+
 ### ⚠️ Aviso Legal
 Esta aplicación es solo para fines informativos y educativos. No constituye asesoramiento financiero, recomendación de inversión ni oferta de compra o venta de valores. Los datos mostrados se obtienen de fuentes públicas y su precisión no está garantizada. Las decisiones de inversión deben tomarse tras realizar un análisis propio o consultar con un asesor financiero profesional. El autor no se hace responsable de las decisiones tomadas basándose en esta información.
 
